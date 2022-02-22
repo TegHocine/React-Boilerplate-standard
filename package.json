@@ -32,6 +32,9 @@
   },
   "devDependencies": {
     "eslint": "*",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "*",
     "husky": "*",
     "lint-staged": "*",
     "prettier": "*"
